@@ -1,0 +1,14 @@
+{
+  "name": "uol-game",
+  "version": "0.0.1",
+  "description": "Side Scroller for Intro to programming",
+  "main": "index.html",
+  "scripts": {
+    "format": "prettier ./src --write"
+  },
+  "author": "Michael Heuss",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
